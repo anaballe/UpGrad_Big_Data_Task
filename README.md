@@ -8,7 +8,11 @@ final_compiled.txt is the file I have obtained after doing a inner join of (unio
 This text file has been utilized for using MapReduce paradigm, Hive and pig programming.
 
 Problem statement: 
+
 •What is the total number of viewers for shows on ABC?
+
 •What is the number of viewers for the BAT channel? 
+
 •What is the most viewed show on ABC channel?
+
 •What are the aired shows on ZOO,NOX, ABC channels ?
