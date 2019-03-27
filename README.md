@@ -1,4 +1,4 @@
-# UpGrad_Big_Data_Task
+# UpGrad Big Data Task for Internship
 
 In this repository I have done the assignment task for UpGrad Big Data Internship.
 
