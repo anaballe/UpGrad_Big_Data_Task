@@ -19,7 +19,7 @@ Problem statement:
 
 Solution :-
 
-1) Java code having Mapper,Reducer and Driver programs can been found separately in UpGrad_Big_Data_Task/Java code Using Mapreduce Framework/src/
+1)Java code having Mapper,Reducer and Driver programs can been found separately in UpGrad_Big_Data_Task/Java code Using Mapreduce Framework/src/
 
 2)task.hql in the UpGrad_Big_Data_Task/Task in Hive/ contains the Hive queries for all four tasks.
 
