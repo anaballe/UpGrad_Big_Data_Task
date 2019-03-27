@@ -19,8 +19,8 @@ Problem statement:
 
 Solution :-
 
-1)Java code having Mapper,Reducer and Driver programs can been found separately in UpGrad_Big_Data_Task/Java code Using Mapreduce Framework/src/
+1) Java code having Mapper,Reducer and Driver programs can been found separately in UpGrad_Big_Data_Task/Java code Using Mapreduce Framework/src/
 
-2)task.hql in the UpGrad_Big_Data_Task/Task in Hive/ contains the Hive queries for all four tasks.
+2) task.hql in the UpGrad_Big_Data_Task/Task in Hive/ contains the Hive queries for all four tasks.
 
-3)task_in_pig.pig in UpGrad_Big_Data_Task/Task in Pig/ contains the pig latin script which can be run.
+3) task_in_pig.pig in UpGrad_Big_Data_Task/Task in Pig/ contains the pig latin script which can be run.
